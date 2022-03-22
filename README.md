@@ -1,7 +1,7 @@
 # Team Tourists
 ## Our Team
 > B Sai Pavan Kumar - AM.EN.U4CSE19214<br>
-> K Yaswant Phani - AM.EN.U4CSE19229<br>
+> K Yaswanth Phani - AM.EN.U4CSE19229<br>
 > Srilekha Somanchi - AM.EN.U4CSE19254<br>
 > Yash Ladani - AM.EN.U4CSE19262<br>
 
