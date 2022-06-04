@@ -24,7 +24,7 @@
    pip install pillow
    ```
 2. Clone this repository and rename the folder as per your requirement.
-3. To launch the application run the following command in the root directory:
+3. To launch the application, run the following command in the root directory:
    ```
    python main.py
    ```
